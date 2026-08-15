@@ -8,4 +8,4 @@ Segmented customers based on their purchasing patterns.
 Identified top-performing products and low-stock products.
 Created an interactive Power BI dashboard with KPIs, charts, slicers and navigation buttons.
 Generated business insights to support data-driven decision-making.
-<img width="1162" height="651" alt="Screenshot 2026-08-12 091043" src="https://github.com/user-attachments/assets/9fc5e38a-a10b-4ab3-bc2b-1467b609780e" />
+<img width="1167" height="658" alt="image" src="https://github.com/user-attachments/assets/f193a5da-5b5f-499d-94e5-dc411e4a3824" />
